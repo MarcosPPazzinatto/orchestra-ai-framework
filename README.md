@@ -9,7 +9,7 @@
 ### Overview
 
 **OrchestrAIFramework** is a modular artificial intelligence framework inspired by the structure of a symphonic orchestra.  
-Each orchestral section — *strings, brass, woodwinds, percussion, keyboards, bass, and others* — represents a specialized family of algorithms that perform unique functions.  
+Each orchestral section, *strings, brass, woodwinds, percussion, keyboards, bass, and others*, represents a specialized family of algorithms that perform unique functions.  
 All modules are coordinated by a central **Conductor**, responsible for synchronization, configuration, and intelligent routing across the ensemble.
 
 This design combines creativity with engineering: models act as musicians, algorithms as instruments, and the conductor ensures harmony, timing, and balance across the entire AI system.
